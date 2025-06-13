@@ -1,80 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>Andre Fontenele</title>
-	<link>http://localhost:1313/categories/</link>
+	<link>https://example.org/categories/</link>
 	<description>Recent content in Categories on Andre Fontenele</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
     
-        <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
 	
-	
-	<item>
-		<title>First Blog</title>
-		<link>http://localhost:1313/blog/first_blog/</link>
-		<pubDate>Tue, 10 Jun 2025 15:14:27 -0400</pubDate>
-		
-		<guid>http://localhost:1313/blog/first_blog/</guid>
-		<description>&lt;p&gt;This is my first blog post. It is purely for testing.&lt;/p&gt;
-&lt;h2 id=&#34;heading&#34;&gt;Heading&lt;/h2&gt;
-&lt;p&gt;italics&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;bold&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;bold italics&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;bold italics&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;underline&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;underline italics&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;underline italics&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;del&gt;strikethrough&lt;/del&gt;&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-strikethrough&#34; data-lang=&#34;strikethrough&#34;&gt;
-~~~~strikethrough italics~~~~
-
-[link](https://example.com)
-
-![image](https://example.com/image.png)
-
-&amp;gt; quote
-
-&amp;gt; quote
-&amp;gt;
-&amp;gt; quote
-&amp;gt;&amp;gt; quote
-&amp;gt;&amp;gt;&amp;gt; quote
-&amp;gt;&amp;gt;&amp;gt;&amp;gt; quote
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/0RKpf3rK57I?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
-
-
-1.
-#### Subsubheading
-
-##### Subsubsubheading
-
-###### Subsubsubsubheading
-
-###### Subsubsubsubheading
-
-##### Subsubsubheading
-
-#### Subsubheading
-
-### Subheading
-
-# Heading
-
-## Heading
-
-### Subheading
-&lt;/code&gt;&lt;/pre&gt;</description>
-	</item>
 	
 	<item>
 		<title>Resume</title>
-		<link>http://localhost:1313/resume/</link>
+		<link>https://example.org/resume/</link>
 		<pubDate>Tue, 10 Jun 2025 15:11:44 -0400</pubDate>
 		
-		<guid>http://localhost:1313/resume/</guid>
+		<guid>https://example.org/resume/</guid>
 		<description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
 &lt;h2 id=&#34;areas-of-expertise&#34;&gt;Areas of Expertise&lt;/h2&gt;
 &lt;p&gt;Backend Web-Dev,
@@ -107,7 +47,7 @@ Data Science&lt;/p&gt;
 &lt;br&gt;&lt;/p&gt;
 &lt;h1 id=&#34;skills&#34;&gt;Skills&lt;/h1&gt;
 &lt;h3 id=&#34;hard-skills&#34;&gt;Hard Skills&lt;/h3&gt;
-&lt;h5 id=&#34;note-every-line-before-concepts-and-processes-is-ordered-from-highest-proficiencyfamiliarity-to-lowest-some-wrong-assumptions-to-make-about-the-later-items-would-be-that-i-find-them-inherently-confusing-or-that-i-rarely-use-them-for-example-i-know-much-more-java-than-bash-but-bash-is-both-less-complex-and-more-commonly-used-than-java-because-of-its-place-as-a-scripting-language&#34;&gt;Note: Every line before &amp;ldquo;Concepts and Processes&amp;rdquo; is ordered from highest proficiency/familiarity to lowest. Some wrong assumptions to make about the later items would be that I find them inherently confusing or that I rarely use them. For example, I know much more Java than Bash, but Bash is both less complex and more commonly used than Java, because of it&amp;rsquo;s place as a scripting language.&lt;br&gt;&lt;/h5&gt;
+&lt;h5 id=&#34;note-every-line-before-concepts-and-processes-is-ordered-from-highest-proficiencyfamiliarity-to-lowest-some-wrong-assumptions-to-make-about-the-later-items-would-be-that-they-are-inherently-confusing-or-that-i-rarely-use-them-for-example-i-know-much-more-java-than-bash-but-bash-is-both-less-complex-and-more-commonly-used-than-java-because-of-its-a-popular-scripting-language&#34;&gt;Note: Every line before &amp;ldquo;Concepts and Processes&amp;rdquo; is ordered from highest proficiency/familiarity to lowest. Some wrong assumptions to make about the later items would be that they are inherently confusing or that I rarely use them. For example, I know much more Java than Bash, but Bash is both less complex and more commonly used than Java, because of it&amp;rsquo;s a popular scripting language.&lt;br&gt;&lt;/h5&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Technologies&lt;/strong&gt;: Git, Github, Linux, AWS, Nix&lt;br&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Languages&lt;/strong&gt;: Python, Rust, SQL, C, Go, Java, Bash, Javascript/React&lt;br&gt;&lt;/li&gt;
@@ -144,17 +84,6 @@ Data Science&lt;/p&gt;
 &lt;p&gt;After this project is working (at least with basic MIME types), I plan on building a simple and lightweight key-value store in C, which can then be used in combination with the server to create a full-stack app in Pure POSIX C/C++ (and DataStar/JS).&lt;/p&gt;
 &lt;h3 id=&#34;basic-ssh-dns-esque&#34;&gt;Basic SSH DNS-esque&lt;/h3&gt;
 &lt;p&gt;This one is a developer tool for people who have many computers they want to SSH into, but don&amp;rsquo;t want to have to deal with changing IP addresses and keeping a proper DNS. It is a simple two-part system (client and server) which uses an S3 bucket as a SSOT to keep track of changing ip addresses between servers and clients.&lt;/p&gt;
-</description>
-	</item>
-	
-	<item>
-		<title>About</title>
-		<link>http://localhost:1313/about/</link>
-		<pubDate>Tue, 10 Jun 2025 15:04:49 -0400</pubDate>
-		
-		<guid>http://localhost:1313/about/</guid>
-		<description>&lt;p&gt;Here is some content. This is all in Markdown.&lt;/p&gt;
-&lt;h2 id=&#34;my-name-is-andre-fontenele&#34;&gt;My name is Andre Fontenele&lt;/h2&gt;
 </description>
 	</item>
 	
