@@ -17,7 +17,7 @@ Data Science
 
 I started programming in 2019, mostly out of a desire to replicate what was at the time, the coolest technology on the market: AI Voice Assistants. So 14 year old me picked up some basic python, and got to work; writing long chains of if-statements to replicate the functionality I saw in Alexa and Google Home. My parents noticed this and encouraged me in it so that by the next year I started my first college class towards a Bachelors in Data Science.
 
-I finished that degree this June, having matured through my passion for code into a smart and well-rounded programmer. Now, I am looking for a job in the software development space where I can begin to specialize by providing value to a team of excellent programmers, learning under their leadership, and programming like a madman full-time.
+I finished my degree this June, having matured through my passion for code into a smart and well-rounded programmer. Now, I am looking for a job in the software development space where I can begin to specialize by providing value to a team of excellent programmers, learning under their leadership, and programming like a madman full-time.
 
 ## Credentials
 
@@ -29,7 +29,7 @@ I finished that degree this June, having matured through my passion for code int
 **GCP Investments**, Remote - Software Engineer<br>
 *(April 2025 - Present)*
 
-Refactor Rust binary and network parsing code to be more robust and maintainable
+Refactor Rust code for binary and network parsing to be more robust and maintainable
 <br>
 <br>
 
