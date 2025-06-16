@@ -50,7 +50,7 @@ Mentor teens and pre-teens working on STEM projects in Army Research Labs
 # Skills
 ### Hard Skills
 
-- **Technologies**: Git, Github, Linux, AWS, Nix<br>
+- **Technologies**: Git, Github, Linux, AWS<br>
 - **Languages**: Python, Rust, SQL, C, Go, Java, Bash, Javascript/React<br>
 - **Libraries**:
     - Python: Sci-kit Learn, Pandas/Polars, Selenium, Keras, Flask<br>
