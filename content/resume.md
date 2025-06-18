@@ -59,7 +59,7 @@ Mentor teens and pre-teens working on STEM projects in Army Research Labs
 
 ### Soft Skills
 #### Learning
-One of my greatest skills is the ability to learn deeply at a fast pace. When I encounter a new API, for example, one of the first things I naturally do is wonder how it's implemented under the hood. I enjoy the oportunity to, whenever I can, build tools from scratch rather than just importing them. I don't always do these re-implementations, but having experience doing these re-implmentations keeps me aware, whenever I am using a new library or tool, of how it is most likely to work, which saves significant time when learning new things.
+One of my greatest skills is the ability to learn deeply at a fast pace. When I encounter a new API, for example, one of the first things I naturally do is wonder how it's implemented under the hood. I enjoy the opportunity to, whenever I can, build tools from scratch rather than just importing them. I don't always do these re-implementations, but having experience doing these re-implmentations keeps me aware, whenever I am using a new library or tool, of how it is most likely to work, which saves significant time when learning new things.
 
 #### Presenting
 I learned public speaking in High-school, where I took classes from a local pastor and competed in the National Christian Forensics and Communications Association (NCFCA). I competed in the NCFCA in Speech for ~2-3 years and Lincoln-Douglas debate for 1 year.
