@@ -59,7 +59,7 @@ Mentor teens and pre-teens working on STEM projects in Army Research Labs
 
 ### Soft Skills
 #### Learning
-One of my greatest skills is the ability to learn deeply at a fast pace. When I encounter a new API, for example, one of the first things I naturally do is wonder how it's implemented under the hood. I enjoy the opportunity to, whenever I can, build tools from scratch rather than just importing them. I don't always do these re-implementations, but having experience doing these re-implmentations keeps me aware, whenever I am using a new library or tool, of how it is most likely to work, which saves significant time when learning new things.
+One of my greatest skills is the ability to learn deeply at a fast pace. When I encounter a new API, for example, one of the first things I naturally do is wonder how it's implemented under the hood. I enjoy the opportunity to, whenever I can, build tools from scratch rather than just importing them. I don't always do these re-implementations, but having experience doing these re-implementations keeps me aware, whenever I am using a new library or tool, of how it is most likely to work, which saves significant time when learning new things.
 
 #### Presenting
 I learned public speaking in High-school, where I took classes from a local pastor and competed in the National Christian Forensics and Communications Association (NCFCA). I competed in the NCFCA in Speech for ~2-3 years and Lincoln-Douglas debate for 1 year.
@@ -69,19 +69,19 @@ I learned public speaking in High-school, where I took classes from a local past
 
 The Co-op database is a project I started working on with the goal of replacing the nightmare of an Excel sheet my local co-op was using to keep track of students, families, classes, teachers, registrations, payments, and more.
 
-This project was also my first introduction to web development, and I've learned a lot over the it's many re-writes. My most recent version (shown below), includes a hand-rolled authentication and primitive authorization system. I used constant-time hash-checking, and were proper hashing and salting. I also implemented protections against CSRF (form-implemented), XSS, SQL-injection, and brute-force attacks. You only see the Classes table here, but I also designed a database schema for the other parts.
+This project was also my first introduction to web development, and I’ve learned a lot over the many rewrites this project has undergone.  My most recent version (shown below), includes a hand-rolled authentication and primitive authorization system. I used constant-time hash-checking, and proper hashing and salting. I also implemented protections against CSRF (form-implemented), XSS, SQL-injection, and brute-force attacks. You only see the Classes table here, but I also designed a database schema for the other parts.
 
 {{< youtube mwbyCCorNGU >}}
 
 ### Tic-tac-toe AI
 This is a fun project I like to build to learn the basic syntax of a new language. It's a simple search algorithm (minimax) that can be used to play simple games.
 
-I also have a similar project which plays mancala with a more advanced version this algorithm. That one is written in Rust and also has the added difficulty of being a multithreaded incomplete search, requiring depth-limiting game tree calculations.
+I also have a similar project which plays mancala with a more advanced version of this algorithm. That one is written in Rust and also has the added difficulty of being a multithreaded incomplete search, requiring depth-limiting game tree calculations.
 
 {{< youtube Rx5F_YPo7N0 >}}
 
 ### POSIX HTTP Server (WIP)
-The goal of this project is to build a basic multithreaded HTTP server in C using just POSIX (techncially glibc) functionality. To non-technical people this will sound no different from any other website, but developers know that the self-inflicted handicap of using only POSIX C is a huge deal. It requires re-implementation some key functionality (the HTTP protocol) that developers use to facilitate web communcation in their code.
+The goal of this project is to build a basic multithreaded HTTP server in C using just POSIX (technically glibc) functionality. To non-technical people this will sound no different from any other website, but developers know that the self-inflicted handicap of using only POSIX C is a huge deal. It requires re-implementing a key abstraction (the HTTP protocol) that developers use to facilitate web communication in their code.
 
 After this project is working (at least with basic MIME types), I plan on building a simple and lightweight key-value store in C, which can then be used in combination with the server to create a full-stack app in Pure POSIX C/C++ (and DataStar/JS).
 
