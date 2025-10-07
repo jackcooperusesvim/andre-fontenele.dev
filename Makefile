@@ -1,2 +1,2 @@
 all:
-	cp src public
+	cp -r src/. public
