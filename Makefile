@@ -1,2 +1,2 @@
 all:
-	@true
+	cp src public
